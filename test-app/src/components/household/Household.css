@@ -1,0 +1,57 @@
+button {
+    margin-top: 2rem;
+  }
+  .component-container {
+    margin: auto;
+    left: 50%;
+    top: 50%;
+    max-width: fit-content;
+    max-height: fit-content;
+    padding: 2rem;
+    background-color: rgb(230, 235, 240);
+  }
+  
+  .TextFields-container {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .auto-container {
+    margin: 1rem auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .autocomplete-box-container {
+    margin: auto;
+    margin-bottom: 1rem;
+  }
+  
+  .household-span {
+    margin: 1rem auto 0.4rem auto;
+    font-size: 0.8rem;
+  }
+  
+  .household-content-message {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .datepicker-container {
+    margin-top: 1rem;
+  }
+  
+  .demo-radio-buttons-group-label {
+    color: black;
+  }
+  
+  .radio-form-container {
+    margin-top: 2rem;
+  }
+  
+  .household-container {
+    height: 8rem;
+  }
+  
